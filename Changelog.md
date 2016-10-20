@@ -1,5 +1,9 @@
 ### 0.4.5 (unreleased)
 
+Features:
+
+ * Inline assembly: support ``ErrorTag`` as a jump label.
+
 ### 0.4.4 (2016-10-31)
 
 Bugfixes:
